@@ -1,0 +1,226 @@
+body{
+    background-color: #1e1e1e;
+}
+#link{
+    color: rgba(255, 255, 255, 0.5);
+}
+.left{
+    position: absolute;
+    width: 373px;
+    height: 675px;
+    left: 21px;
+    top: 19px;
+    background: #262626;
+    border-radius: 50px; 
+}
+.img1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 222px;
+    height: 222px;
+    left: 75px;
+    top: 40px;
+
+    background: url(image\ 1.png);
+    border: 2px solid #333333;
+    border-radius: 1000px;
+}
+.tony{
+    position: absolute;
+    width: 132px;
+    height: 36px;
+    left: 121px;
+    top: 250px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.billionaire{
+    position: absolute;
+    width: 87px;
+    height: 27px;
+    left: 139px;
+    top: 300px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    color: rgba(255, 255, 255, 0.5);
+}
+.group1{
+    position: absolute;
+    width: 298px;
+    height: 51px;
+    left: 38px;
+    top: 390px;
+
+    background: #111111;
+    border-radius: 30px;
+}
+.one{
+    /* position: absolute;
+    width: 121px;
+    height: 27px;
+    left: 127px;
+    top: 447px;  */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.group2{
+    position: absolute;
+    width: 298px;
+    height: 51px;
+    left: 38px;
+    top: 460px;
+
+    background: #111111;
+    border-radius: 30px;
+}
+.two{
+    /* position: absolute;
+    width: 160px;
+    height: 27px;
+    left: 107px;
+    top: 532px; */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.group3{
+    position: absolute;
+    width: 298px;
+    height: 51px;
+    left: 38px;
+    top: 530px;
+
+    background: #111111;
+    border-radius: 30px;
+}
+.three{
+    /* position: absolute;
+    width: 109px;
+    height: 27px;
+    left: 133px;
+    top: 616px; */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* ************************************************************************************************************ */
+
+.rightUp{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1098px;
+    height: 408px;
+    left: 414px;
+    top: 19px;
+
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.heading{
+    position: absolute;
+    width: 231px;
+    height: 36px;
+    left: 50px;
+    top: 5px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.para{
+    position: absolute;
+    width: 421px;
+    height: 430px;
+    left: 50px;
+    top: 60px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+
+    color: rgba(255, 255, 255, 0.5);
+}
+.img2{
+    position: absolute;
+    width: 582px;
+    height: 320px;
+    left: 490px;
+    top: 60px;
+
+    background: url(image\ 2.png);
+    border-radius: 20px;
+}
+/* ********************************************************************************************* */
+
+.rightDown{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1098px;
+    height: 250px;
+    left: 414px;
+    top: 446px;
+
+    background: #262626;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+}
+.suits{
+    position: absolute;
+    bottom: 180px;
+    left: 50px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+.table1{
+    position: absolute;
+    width: 1000px;
+    height: 180px;
+    left: 50px;
+    top: 50px;
+
+    border:#333333 solid;
+    border-radius: 20px;
+    color:#FFFFFF;
+}
